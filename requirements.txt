@@ -1,0 +1,4 @@
+numpy
+sounddevice
+# pyrnnoise: instalar à parte com --no-deps (só o rnnoise.dll dele é usado). Ver README.
+# pillow: opcional, só para ferramentas/gerar_icone.py e ferramentas/print_janela.py
